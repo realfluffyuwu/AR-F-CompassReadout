@@ -1,0 +1,22 @@
+GameProject {
+ ID "CompassReadout"
+ GUID "62BCB4602E9EDA9A"
+ TITLE "Fluffys Compass Readout"
+ Dependencies {
+  "58D0FB3206B6F859" "62B73074AE4BB1CA"
+ }
+ Configurations {
+  GameProjectConfig PC {
+  }
+  GameProjectConfig XBOX_ONE {
+  }
+  GameProjectConfig XBOX_SERIES {
+  }
+  GameProjectConfig PS4 {
+  }
+  GameProjectConfig PS5 {
+  }
+  GameProjectConfig HEADLESS {
+  }
+ }
+}
